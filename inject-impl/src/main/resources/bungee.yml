@@ -1,0 +1,7 @@
+name: InjectPlugin
+description: Dependency injection in your plugins!
+version: ${project.version}
+main: pl.otekplay.inject.bungee.InjectPlugin
+author: Otekplay
+depend:
+  - KotlinPlugin
